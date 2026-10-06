@@ -1,0 +1,2943 @@
+[
+  {
+    "atomicNumber": 1,
+    "symbol": "H",
+    "name": "هیدروژن",
+    "englishName": "Hydrogen",
+    "atomicMass": "1.008",
+    "category": "نافلز",
+    "state": "گاز",
+    "period": 1,
+    "group": 1,
+    "electronConfiguration": "1s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 13.81,
+    "boilingPoint": 20.28,
+    "uses": [
+      "تولید آب و سوخت‌های پاک در سامانه‌های انرژی",
+      "صنایع شیمیایی و پالایشگاهی",
+      "پژوهش‌های علمی"
+    ],
+    "dangers": [
+      "گاز بسیار آتش‌گیر است و باید از منابع جرقه و حرارت دور نگه داشته شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 2,
+    "symbol": "He",
+    "name": "هلیم",
+    "englishName": "Helium",
+    "atomicMass": "4.0026",
+    "category": "گاز نجیب",
+    "state": "گاز",
+    "period": 1,
+    "group": 18,
+    "electronConfiguration": "1s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 0.95,
+    "boilingPoint": 4.22,
+    "uses": [
+      "بالن‌ها و سامانه‌های پرواز سبک",
+      "خنک‌سازی تجهیزات علمی و پزشکی",
+      "محیط‌های محافظ در برخی فرایندهای صنعتی"
+    ],
+    "dangers": [
+      "گاز خنثی است، اما در فضای بسته می‌تواند اکسیژن را جابه‌جا کند و خطر خفگی ایجاد کند."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 3,
+    "symbol": "Li",
+    "name": "لیتیوم",
+    "englishName": "Lithium",
+    "atomicMass": "6.94",
+    "category": "فلز قلیایی",
+    "state": "جامد",
+    "period": 2,
+    "group": 1,
+    "electronConfiguration": "[He] 2s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 453.65,
+    "boilingPoint": 1615,
+    "uses": [
+      "باتری‌های لیتیوم‌یونی",
+      "آلیاژهای سبک",
+      "برخی کاربردهای پزشکی"
+    ],
+    "dangers": [
+      "فلز واکنش‌پذیری است؛ تماس آن با آب می‌تواند خطرناک باشد."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 4,
+    "symbol": "Be",
+    "name": "بریلیم",
+    "englishName": "Beryllium",
+    "atomicMass": "9.0122",
+    "category": "فلز قلیایی خاکی",
+    "state": "جامد",
+    "period": 2,
+    "group": 2,
+    "electronConfiguration": "[He] 2s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1560,
+    "boilingPoint": 2744,
+    "uses": [
+      "آلیاژهای مهندسی",
+      "تجهیزات هوافضا",
+      "برخی تجهیزات پرتوی و علمی"
+    ],
+    "dangers": [
+      "ترکیبات و گردوغبار بریلیم می‌توانند برای سلامت خطرناک باشند؛ تماس و استنشاق باید کنترل شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 5,
+    "symbol": "B",
+    "name": "بور",
+    "englishName": "Boron",
+    "atomicMass": "10.81",
+    "category": "شبه‌فلز",
+    "state": "جامد",
+    "period": 2,
+    "group": 13,
+    "electronConfiguration": "[He] 2s² 2p¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2348,
+    "boilingPoint": 4273,
+    "uses": [
+      "شیشه و سرامیک",
+      "مواد مقاوم در برابر حرارت",
+      "مواد شوینده و ترکیبات بوراتی"
+    ],
+    "dangers": [
+      "برخی ترکیبات بور می‌توانند در مقدار زیاد زیان‌آور باشند."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 6,
+    "symbol": "C",
+    "name": "کربن",
+    "englishName": "Carbon",
+    "atomicMass": "12.011",
+    "category": "نافلز",
+    "state": "جامد",
+    "period": 2,
+    "group": 14,
+    "electronConfiguration": "[He] 2s² 2p²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 3823,
+    "boilingPoint": 4098,
+    "uses": [
+      "سوخت‌ها و مواد آلی",
+      "فولاد و مواد کامپوزیتی",
+      "گرافیت و الماس در کاربردهای صنعتی"
+    ],
+    "dangers": [
+      "خود عنصر شکل‌های مختلفی دارد؛ برخی ترکیبات کربن می‌توانند خطرناک باشند و احتراق ناقص مواد کربنی می‌تواند گاز سمی تولید کند."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 7,
+    "symbol": "N",
+    "name": "نیتروژن",
+    "englishName": "Nitrogen",
+    "atomicMass": "14.007",
+    "category": "نافلز",
+    "state": "گاز",
+    "period": 2,
+    "group": 15,
+    "electronConfiguration": "[He] 2s² 2p³",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 63.15,
+    "boilingPoint": 77.36,
+    "uses": [
+      "تولید آمونیاک و کودها",
+      "محیط‌های بی‌اثر صنعتی",
+      "صنایع غذایی و بسته‌بندی"
+    ],
+    "dangers": [
+      "گاز نسبتاً بی‌اثر است، اما در فضای بسته می‌تواند اکسیژن را کاهش دهد."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 8,
+    "symbol": "O",
+    "name": "اکسیژن",
+    "englishName": "Oxygen",
+    "atomicMass": "15.999",
+    "category": "نافلز",
+    "state": "گاز",
+    "period": 2,
+    "group": 16,
+    "electronConfiguration": "[He] 2s² 2p⁴",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 54.36,
+    "boilingPoint": 90.2,
+    "uses": [
+      "تنفس و پزشکی",
+      "فرایندهای احتراق و متالورژی",
+      "تصفیه و صنایع شیمیایی"
+    ],
+    "dangers": [
+      "اکسیژن سوختنی نیست، اما آتش و سوختن را بسیار تقویت می‌کند."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 9,
+    "symbol": "F",
+    "name": "فلوئور",
+    "englishName": "Fluorine",
+    "atomicMass": "18.998",
+    "category": "هالوژن",
+    "state": "گاز",
+    "period": 2,
+    "group": 17,
+    "electronConfiguration": "[He] 2s² 2p⁵",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 53.53,
+    "boilingPoint": 85.03,
+    "uses": [
+      "تولید برخی مواد شیمیایی و فلوئوروپلیمرها",
+      "صنایع تخصصی شیمیایی"
+    ],
+    "dangers": [
+      "عنصر بسیار واکنش‌پذیر و بسیار خطرناک است؛ تماس مستقیم با آن مناسب محیط آموزشی نیست."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 10,
+    "symbol": "Ne",
+    "name": "نئون",
+    "englishName": "Neon",
+    "atomicMass": "20.180",
+    "category": "گاز نجیب",
+    "state": "گاز",
+    "period": 2,
+    "group": 18,
+    "electronConfiguration": "[He] 2s² 2p⁶",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 24.56,
+    "boilingPoint": 27.07,
+    "uses": [
+      "تابلوهای نوری و تبلیغاتی",
+      "لامپ‌های تخصصی",
+      "برخی تجهیزات علمی"
+    ],
+    "dangers": [
+      "گاز نجیب است، ولی در فضای بسته می‌تواند اکسیژن را کاهش دهد."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 11,
+    "symbol": "Na",
+    "name": "سدیم",
+    "englishName": "Sodium",
+    "atomicMass": "22.990",
+    "category": "فلز قلیایی",
+    "state": "جامد",
+    "period": 3,
+    "group": 1,
+    "electronConfiguration": "[Ne] 3s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 370.95,
+    "boilingPoint": 1156,
+    "uses": [
+      "تولید مواد شیمیایی",
+      "لامپ‌های بخار سدیم",
+      "انتقال حرارت در برخی سامانه‌های صنعتی"
+    ],
+    "dangers": [
+      "فلز بسیار واکنش‌پذیر است و تماس آن با آب می‌تواند خطرناک باشد."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 12,
+    "symbol": "Mg",
+    "name": "منیزیم",
+    "englishName": "Magnesium",
+    "atomicMass": "24.305",
+    "category": "فلز قلیایی خاکی",
+    "state": "جامد",
+    "period": 3,
+    "group": 2,
+    "electronConfiguration": "[Ne] 3s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 923,
+    "boilingPoint": 1363,
+    "uses": [
+      "آلیاژهای سبک",
+      "صنایع هوافضا و خودرو",
+      "تولید برخی ترکیبات شیمیایی"
+    ],
+    "dangers": [
+      "فلز و به‌ویژه پودر آن می‌تواند به‌آسانی بسوزد؛ دور از منابع آتش نگهداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 13,
+    "symbol": "Al",
+    "name": "آلومینیوم",
+    "englishName": "Aluminium",
+    "atomicMass": "26.982",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 3,
+    "group": 13,
+    "electronConfiguration": "[Ne] 3s² 3p¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 933.437,
+    "boilingPoint": 2792,
+    "uses": [
+      "ساختمان و بسته‌بندی",
+      "هواپیما و خودرو",
+      "سیم‌ها و تجهیزات صنعتی"
+    ],
+    "dangers": [
+      "فلز جامد معمولاً پایدار است، اما گردوغبار و پودر آن می‌توانند خطر آتش‌گیری داشته باشند."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 14,
+    "symbol": "Si",
+    "name": "سیلیسیم",
+    "englishName": "Silicon",
+    "atomicMass": "28.085",
+    "category": "شبه‌فلز",
+    "state": "جامد",
+    "period": 3,
+    "group": 14,
+    "electronConfiguration": "[Ne] 3s² 3p²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1687,
+    "boilingPoint": 3538,
+    "uses": [
+      "تراشه‌های الکترونیکی",
+      "پنل‌های خورشیدی",
+      "شیشه و سرامیک"
+    ],
+    "dangers": [
+      "سیلیس و برخی ذرات آن برای دستگاه تنفسی زیان‌آورند؛ از استنشاق گردوغبار جلوگیری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 15,
+    "symbol": "P",
+    "name": "فسفر",
+    "englishName": "Phosphorus",
+    "atomicMass": "30.974",
+    "category": "نافلز",
+    "state": "جامد",
+    "period": 3,
+    "group": 15,
+    "electronConfiguration": "[Ne] 3s² 3p³",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 317.3,
+    "boilingPoint": 553.65,
+    "uses": [
+      "کودهای کشاورزی",
+      "مواد شوینده و شیمیایی",
+      "صنایع مختلف شیمیایی"
+    ],
+    "dangers": [
+      "برخی شکل‌ها و ترکیبات فسفر خطرناک‌اند؛ تماس مستقیم با مواد ناشناخته مناسب نیست."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 16,
+    "symbol": "S",
+    "name": "گوگرد",
+    "englishName": "Sulfur",
+    "atomicMass": "32.06",
+    "category": "نافلز",
+    "state": "جامد",
+    "period": 3,
+    "group": 16,
+    "electronConfiguration": "[Ne] 3s² 3p⁴",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 388.36,
+    "boilingPoint": 717.75,
+    "uses": [
+      "تولید اسید سولفوریک",
+      "کود و صنایع شیمیایی",
+      "تولید لاستیک"
+    ],
+    "dangers": [
+      "گردوغبار و بخارات برخی ترکیبات گوگردی می‌توانند تحریک‌کننده یا سمی باشند."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 17,
+    "symbol": "Cl",
+    "name": "کلر",
+    "englishName": "Chlorine",
+    "atomicMass": "35.45",
+    "category": "هالوژن",
+    "state": "گاز",
+    "period": 3,
+    "group": 17,
+    "electronConfiguration": "[Ne] 3s² 3p⁵",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 171.65,
+    "boilingPoint": 239.11,
+    "uses": [
+      "ضدعفونی و تصفیه آب",
+      "تولید PVC",
+      "صنایع شیمیایی"
+    ],
+    "dangers": [
+      "گاز کلر سمی و تحریک‌کننده است؛ استنشاق آن خطرناک است."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 18,
+    "symbol": "Ar",
+    "name": "آرگون",
+    "englishName": "Argon",
+    "atomicMass": "39.948",
+    "category": "گاز نجیب",
+    "state": "گاز",
+    "period": 3,
+    "group": 18,
+    "electronConfiguration": "[Ne] 3s² 3p⁶",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 83.8,
+    "boilingPoint": 87.3,
+    "uses": [
+      "جوشکاری",
+      "لامپ‌های تخصصی",
+      "محیط محافظ در صنایع و پژوهش"
+    ],
+    "dangers": [
+      "گاز نجیب است، اما در فضای بسته می‌تواند اکسیژن را کاهش دهد."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 19,
+    "symbol": "K",
+    "name": "پتاسیم",
+    "englishName": "Potassium",
+    "atomicMass": "39.0983",
+    "category": "فلز قلیایی",
+    "state": "جامد",
+    "period": 4,
+    "group": 1,
+    "electronConfiguration": "[Ar] 4s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 336.53,
+    "boilingPoint": 1032,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی پتاسیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی پتاسیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 20,
+    "symbol": "Ca",
+    "name": "کلسیم",
+    "englishName": "Calcium",
+    "atomicMass": "40.078",
+    "category": "فلز قلیایی خاکی",
+    "state": "جامد",
+    "period": 4,
+    "group": 2,
+    "electronConfiguration": "[Ar] 4s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1115,
+    "boilingPoint": 1757,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی کلسیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی کلسیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 21,
+    "symbol": "Sc",
+    "name": "اسکاندیم",
+    "englishName": "Scandium",
+    "atomicMass": "44.9559",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 3,
+    "electronConfiguration": "[Ar] 3d¹ 4s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1814,
+    "boilingPoint": 3109,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی اسکاندیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی اسکاندیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 22,
+    "symbol": "Ti",
+    "name": "تیتانیم",
+    "englishName": "Titanium",
+    "atomicMass": "47.867",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 4,
+    "electronConfiguration": "[Ar] 3d² 4s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1941,
+    "boilingPoint": 3560,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی تیتانیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی تیتانیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 23,
+    "symbol": "V",
+    "name": "وانادیم",
+    "englishName": "Vanadium",
+    "atomicMass": "50.9415",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 5,
+    "electronConfiguration": "[Ar] 3d³ 4s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2183,
+    "boilingPoint": 3680,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی وانادیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی وانادیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 24,
+    "symbol": "Cr",
+    "name": "کروم",
+    "englishName": "Chromium",
+    "atomicMass": "51.9961",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 6,
+    "electronConfiguration": "[Ar] 3d⁵ 4s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2180,
+    "boilingPoint": 2944,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی کروم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی کروم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 25,
+    "symbol": "Mn",
+    "name": "منگنز",
+    "englishName": "Manganese",
+    "atomicMass": "54.9380",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 7,
+    "electronConfiguration": "[Ar] 3d⁵ 4s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1519,
+    "boilingPoint": 2334,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی منگنز",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی منگنز به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 26,
+    "symbol": "Fe",
+    "name": "آهن",
+    "englishName": "Iron",
+    "atomicMass": "55.845",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 8,
+    "electronConfiguration": "[Ar] 3d⁶ 4s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1811,
+    "boilingPoint": 3134,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی آهن",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی آهن به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 27,
+    "symbol": "Co",
+    "name": "کبالت",
+    "englishName": "Cobalt",
+    "atomicMass": "58.9332",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 9,
+    "electronConfiguration": "[Ar] 3d⁷ 4s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1768,
+    "boilingPoint": 3200,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی کبالت",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی کبالت به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 28,
+    "symbol": "Ni",
+    "name": "نیکل",
+    "englishName": "Nickel",
+    "atomicMass": "58.6934",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 10,
+    "electronConfiguration": "[Ar] 3d⁸ 4s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1728,
+    "boilingPoint": 3186,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی نیکل",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی نیکل به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 29,
+    "symbol": "Cu",
+    "name": "مس",
+    "englishName": "Copper",
+    "atomicMass": "63.546",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 11,
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1357.77,
+    "boilingPoint": 2835,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی مس",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی مس به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 30,
+    "symbol": "Zn",
+    "name": "روی",
+    "englishName": "Zinc",
+    "atomicMass": "65.38",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 12,
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 692.68,
+    "boilingPoint": 1180,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی روی",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی روی به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 31,
+    "symbol": "Ga",
+    "name": "گالیم",
+    "englishName": "Gallium",
+    "atomicMass": "69.723",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 4,
+    "group": 13,
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 302.91,
+    "boilingPoint": 2477,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی گالیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی گالیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 32,
+    "symbol": "Ge",
+    "name": "ژرمانیم",
+    "englishName": "Germanium",
+    "atomicMass": "72.630",
+    "category": "شبه‌فلز",
+    "state": "جامد",
+    "period": 4,
+    "group": 14,
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1211.4,
+    "boilingPoint": 3106,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی ژرمانیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی ژرمانیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 33,
+    "symbol": "As",
+    "name": "آرسنیک",
+    "englishName": "Arsenic",
+    "atomicMass": "74.9216",
+    "category": "شبه‌فلز",
+    "state": "جامد",
+    "period": 4,
+    "group": 15,
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p³",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1090,
+    "boilingPoint": 887,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی آرسنیک",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی آرسنیک به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 34,
+    "symbol": "Se",
+    "name": "سلنیوم",
+    "englishName": "Selenium",
+    "atomicMass": "78.971",
+    "category": "نافلز",
+    "state": "جامد",
+    "period": 4,
+    "group": 16,
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁴",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 493.65,
+    "boilingPoint": 958,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی سلنیوم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی سلنیوم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 35,
+    "symbol": "Br",
+    "name": "بروم",
+    "englishName": "Bromine",
+    "atomicMass": "79.904",
+    "category": "هالوژن",
+    "state": "مایع",
+    "period": 4,
+    "group": 17,
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁵",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 265.95,
+    "boilingPoint": 331.95,
+    "uses": [
+      "تولید برخی ترکیبات و مواد شیمیایی مرتبط با بروم",
+      "کاربردهای صنعتی و پژوهشی کنترل‌شده"
+    ],
+    "dangers": [
+      "بروم یا برخی ترکیبات آن می‌توانند واکنش‌پذیر یا زیان‌آور باشند؛ از تماس مستقیم و استنشاق جلوگیری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 36,
+    "symbol": "Kr",
+    "name": "کریپتون",
+    "englishName": "Krypton",
+    "atomicMass": "83.798",
+    "category": "گاز نجیب",
+    "state": "گاز",
+    "period": 4,
+    "group": 18,
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁶",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 115.79,
+    "boilingPoint": 119.93,
+    "uses": [
+      "کاربردهای نوری، علمی یا صنعتی کریپتون",
+      "محیط‌های محافظ در برخی فرایندهای تخصصی"
+    ],
+    "dangers": [
+      "گاز نجیب است، اما تجمع آن در فضای بسته می‌تواند اکسیژن را کاهش دهد."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 37,
+    "symbol": "Rb",
+    "name": "روبیدیم",
+    "englishName": "Rubidium",
+    "atomicMass": "85.4678",
+    "category": "فلز قلیایی",
+    "state": "جامد",
+    "period": 5,
+    "group": 1,
+    "electronConfiguration": "[Kr] 5s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 312.46,
+    "boilingPoint": 961,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی روبیدیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی روبیدیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 38,
+    "symbol": "Sr",
+    "name": "استرانسیم",
+    "englishName": "Strontium",
+    "atomicMass": "87.62",
+    "category": "فلز قلیایی خاکی",
+    "state": "جامد",
+    "period": 5,
+    "group": 2,
+    "electronConfiguration": "[Kr] 5s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1050,
+    "boilingPoint": 1655,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی استرانسیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی استرانسیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 39,
+    "symbol": "Y",
+    "name": "ایتریم",
+    "englishName": "Yttrium",
+    "atomicMass": "88.9058",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 3,
+    "electronConfiguration": "[Kr] 4d¹ 5s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1795,
+    "boilingPoint": 3618,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی ایتریم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی ایتریم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 40,
+    "symbol": "Zr",
+    "name": "زیرکونیم",
+    "englishName": "Zirconium",
+    "atomicMass": "91.224",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 4,
+    "electronConfiguration": "[Kr] 4d² 5s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2128,
+    "boilingPoint": 4682,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی زیرکونیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی زیرکونیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 41,
+    "symbol": "Nb",
+    "name": "نیوبیم",
+    "englishName": "Niobium",
+    "atomicMass": "92.9064",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 5,
+    "electronConfiguration": "[Kr] 4d⁴ 5s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2750,
+    "boilingPoint": 5017,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی نیوبیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی نیوبیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 42,
+    "symbol": "Mo",
+    "name": "مولیبدن",
+    "englishName": "Molybdenum",
+    "atomicMass": "95.95",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 6,
+    "electronConfiguration": "[Kr] 4d⁵ 5s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2896,
+    "boilingPoint": 4912,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی مولیبدن",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی مولیبدن به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 43,
+    "symbol": "Tc",
+    "name": "تکنسیم",
+    "englishName": "Technetium",
+    "atomicMass": "[98]",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 7,
+    "electronConfiguration": "[Kr] 4d⁵ 5s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2430,
+    "boilingPoint": 4538,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی تکنسیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی تکنسیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 44,
+    "symbol": "Ru",
+    "name": "روتنیم",
+    "englishName": "Ruthenium",
+    "atomicMass": "101.07",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 8,
+    "electronConfiguration": "[Kr] 4d⁷ 5s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2607,
+    "boilingPoint": 4423,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی روتنیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی روتنیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 45,
+    "symbol": "Rh",
+    "name": "رودیم",
+    "englishName": "Rhodium",
+    "atomicMass": "102.9055",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 9,
+    "electronConfiguration": "[Kr] 4d⁸ 5s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2237,
+    "boilingPoint": 3968,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی رودیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی رودیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 46,
+    "symbol": "Pd",
+    "name": "پالادیم",
+    "englishName": "Palladium",
+    "atomicMass": "106.42",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 10,
+    "electronConfiguration": "[Kr] 4d¹⁰",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1828.05,
+    "boilingPoint": 3236,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی پالادیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی پالادیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 47,
+    "symbol": "Ag",
+    "name": "نقره",
+    "englishName": "Silver",
+    "atomicMass": "107.8682",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 11,
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1234.93,
+    "boilingPoint": 2435,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی نقره",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی نقره به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 48,
+    "symbol": "Cd",
+    "name": "کادمیم",
+    "englishName": "Cadmium",
+    "atomicMass": "112.414",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 12,
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 594.22,
+    "boilingPoint": 1040,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی کادمیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی کادمیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 49,
+    "symbol": "In",
+    "name": "ایندیم",
+    "englishName": "Indium",
+    "atomicMass": "114.818",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 13,
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 429.75,
+    "boilingPoint": 2345,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی ایندیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی ایندیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 50,
+    "symbol": "Sn",
+    "name": "قلع",
+    "englishName": "Tin",
+    "atomicMass": "118.710",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 5,
+    "group": 14,
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 505.08,
+    "boilingPoint": 2875,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی قلع",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی قلع به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 51,
+    "symbol": "Sb",
+    "name": "آنتیموان",
+    "englishName": "Antimony",
+    "atomicMass": "121.760",
+    "category": "شبه‌فلز",
+    "state": "جامد",
+    "period": 5,
+    "group": 15,
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p³",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 903.78,
+    "boilingPoint": 1860,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی آنتیموان",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی آنتیموان به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 52,
+    "symbol": "Te",
+    "name": "تلوریم",
+    "englishName": "Tellurium",
+    "atomicMass": "127.60",
+    "category": "شبه‌فلز",
+    "state": "جامد",
+    "period": 5,
+    "group": 16,
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁴",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 722.66,
+    "boilingPoint": 1261,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی تلوریم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی تلوریم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 53,
+    "symbol": "I",
+    "name": "ید",
+    "englishName": "Iodine",
+    "atomicMass": "126.9045",
+    "category": "هالوژن",
+    "state": "جامد",
+    "period": 5,
+    "group": 17,
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁵",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 386.85,
+    "boilingPoint": 457.55,
+    "uses": [
+      "تولید برخی ترکیبات و مواد شیمیایی مرتبط با ید",
+      "کاربردهای صنعتی و پژوهشی کنترل‌شده"
+    ],
+    "dangers": [
+      "ید یا برخی ترکیبات آن می‌توانند واکنش‌پذیر یا زیان‌آور باشند؛ از تماس مستقیم و استنشاق جلوگیری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 54,
+    "symbol": "Xe",
+    "name": "زنون",
+    "englishName": "Xenon",
+    "atomicMass": "131.293",
+    "category": "گاز نجیب",
+    "state": "گاز",
+    "period": 5,
+    "group": 18,
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁶",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 161.36,
+    "boilingPoint": 165.03,
+    "uses": [
+      "کاربردهای نوری، علمی یا صنعتی زنون",
+      "محیط‌های محافظ در برخی فرایندهای تخصصی"
+    ],
+    "dangers": [
+      "گاز نجیب است، اما تجمع آن در فضای بسته می‌تواند اکسیژن را کاهش دهد."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 55,
+    "symbol": "Cs",
+    "name": "سزیم",
+    "englishName": "Caesium",
+    "atomicMass": "132.9055",
+    "category": "فلز قلیایی",
+    "state": "جامد",
+    "period": 6,
+    "group": 1,
+    "electronConfiguration": "[Xe] 6s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 301.59,
+    "boilingPoint": 944,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی سزیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی سزیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 56,
+    "symbol": "Ba",
+    "name": "باریم",
+    "englishName": "Barium",
+    "atomicMass": "137.327",
+    "category": "فلز قلیایی خاکی",
+    "state": "جامد",
+    "period": 6,
+    "group": 2,
+    "electronConfiguration": "[Xe] 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1000,
+    "boilingPoint": 2170,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی باریم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی باریم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 57,
+    "symbol": "La",
+    "name": "لانتان",
+    "englishName": "Lanthanum",
+    "atomicMass": "138.9055",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 3,
+    "electronConfiguration": "[Xe] 5d¹ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1191,
+    "boilingPoint": 3737,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی لانتان",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی لانتان به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 58,
+    "symbol": "Ce",
+    "name": "سریم",
+    "englishName": "Cerium",
+    "atomicMass": "140.116",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 4,
+    "electronConfiguration": "[Xe] 4f¹ 5d¹ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1071,
+    "boilingPoint": 3697,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی سریم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی سریم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 59,
+    "symbol": "Pr",
+    "name": "پرازئودیمیم",
+    "englishName": "Praseodymium",
+    "atomicMass": "140.9077",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 5,
+    "electronConfiguration": "[Xe] 4f³ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1204,
+    "boilingPoint": 3793,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی پرازئودیمیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی پرازئودیمیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 60,
+    "symbol": "Nd",
+    "name": "نئودیمیم",
+    "englishName": "Neodymium",
+    "atomicMass": "144.242",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 6,
+    "electronConfiguration": "[Xe] 4f⁴ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1294,
+    "boilingPoint": 3347,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی نئودیمیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی نئودیمیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 61,
+    "symbol": "Pm",
+    "name": "پرومتیم",
+    "englishName": "Promethium",
+    "atomicMass": "[145]",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 7,
+    "electronConfiguration": "[Xe] 4f⁵ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1315,
+    "boilingPoint": 3273,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی پرومتیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی پرومتیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 62,
+    "symbol": "Sm",
+    "name": "ساماریم",
+    "englishName": "Samarium",
+    "atomicMass": "150.36",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 8,
+    "electronConfiguration": "[Xe] 4f⁶ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1347,
+    "boilingPoint": 2067,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی ساماریم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی ساماریم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 63,
+    "symbol": "Eu",
+    "name": "یوروپیم",
+    "englishName": "Europium",
+    "atomicMass": "151.964",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 9,
+    "electronConfiguration": "[Xe] 4f⁷ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1095,
+    "boilingPoint": 1802,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی یوروپیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی یوروپیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 64,
+    "symbol": "Gd",
+    "name": "گادولینیم",
+    "englishName": "Gadolinium",
+    "atomicMass": "157.25",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 10,
+    "electronConfiguration": "[Xe] 4f⁷ 5d¹ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1586,
+    "boilingPoint": 3546,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی گادولینیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی گادولینیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 65,
+    "symbol": "Tb",
+    "name": "تربیوم",
+    "englishName": "Terbium",
+    "atomicMass": "158.9254",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 11,
+    "electronConfiguration": "[Xe] 4f⁹ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1629,
+    "boilingPoint": 3503,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی تربیوم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی تربیوم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 66,
+    "symbol": "Dy",
+    "name": "دیسپروزیم",
+    "englishName": "Dysprosium",
+    "atomicMass": "162.500",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 12,
+    "electronConfiguration": "[Xe] 4f¹⁰ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1685,
+    "boilingPoint": 2840,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی دیسپروزیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی دیسپروزیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 67,
+    "symbol": "Ho",
+    "name": "هولمیم",
+    "englishName": "Holmium",
+    "atomicMass": "164.9303",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 13,
+    "electronConfiguration": "[Xe] 4f¹¹ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1747,
+    "boilingPoint": 2973,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی هولمیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی هولمیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 68,
+    "symbol": "Er",
+    "name": "اربیم",
+    "englishName": "Erbium",
+    "atomicMass": "167.259",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 14,
+    "electronConfiguration": "[Xe] 4f¹² 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1802,
+    "boilingPoint": 3141,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی اربیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی اربیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 69,
+    "symbol": "Tm",
+    "name": "تولیم",
+    "englishName": "Thulium",
+    "atomicMass": "168.9342",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 15,
+    "electronConfiguration": "[Xe] 4f¹³ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1818,
+    "boilingPoint": 2223,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی تولیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی تولیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 70,
+    "symbol": "Yb",
+    "name": "ایتربیم",
+    "englishName": "Ytterbium",
+    "atomicMass": "173.045",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 16,
+    "electronConfiguration": "[Xe] 4f¹⁴ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1092,
+    "boilingPoint": 1469,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی ایتربیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی ایتربیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 71,
+    "symbol": "Lu",
+    "name": "لوتتیم",
+    "englishName": "Lutetium",
+    "atomicMass": "174.9668",
+    "category": "لانتانید",
+    "state": "جامد",
+    "period": 6,
+    "group": 17,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1936,
+    "boilingPoint": 3675,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی لوتتیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی لوتتیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 72,
+    "symbol": "Hf",
+    "name": "هافنیم",
+    "englishName": "Hafnium",
+    "atomicMass": "178.49",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 4,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d² 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2506,
+    "boilingPoint": 4876,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی هافنیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی هافنیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 73,
+    "symbol": "Ta",
+    "name": "تانتال",
+    "englishName": "Tantalum",
+    "atomicMass": "180.9479",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 5,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d³ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 3290,
+    "boilingPoint": 5731,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی تانتال",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی تانتال به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 74,
+    "symbol": "W",
+    "name": "تنگستن",
+    "englishName": "Tungsten",
+    "atomicMass": "183.84",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 6,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁴ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 3695,
+    "boilingPoint": 5828,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی تنگستن",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی تنگستن به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 75,
+    "symbol": "Re",
+    "name": "رنیوم",
+    "englishName": "Rhenium",
+    "atomicMass": "186.207",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 7,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁵ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 3459,
+    "boilingPoint": 5869,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی رنیوم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی رنیوم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 76,
+    "symbol": "Os",
+    "name": "اسمیم",
+    "englishName": "Osmium",
+    "atomicMass": "190.23",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 8,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁶ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 3306,
+    "boilingPoint": 5285,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی اسمیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی اسمیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 77,
+    "symbol": "Ir",
+    "name": "ایریدیم",
+    "englishName": "Iridium",
+    "atomicMass": "192.217",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 9,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁷ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2719,
+    "boilingPoint": 4701,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی ایریدیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی ایریدیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 78,
+    "symbol": "Pt",
+    "name": "پلاتین",
+    "englishName": "Platinum",
+    "atomicMass": "195.084",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 10,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁹ 6s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2041.55,
+    "boilingPoint": 4098,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی پلاتین",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی پلاتین به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 79,
+    "symbol": "Au",
+    "name": "طلا",
+    "englishName": "Gold",
+    "atomicMass": "196.9666",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 11,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1337.33,
+    "boilingPoint": 3129,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی طلا",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی طلا به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 80,
+    "symbol": "Hg",
+    "name": "جیوه",
+    "englishName": "Mercury",
+    "atomicMass": "200.592",
+    "category": "فلز واسطه",
+    "state": "مایع",
+    "period": 6,
+    "group": 12,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 234.32,
+    "boilingPoint": 629.88,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی جیوه",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی جیوه به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 81,
+    "symbol": "Tl",
+    "name": "تالیم",
+    "englishName": "Thallium",
+    "atomicMass": "204.38",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 13,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 577,
+    "boilingPoint": 1746,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی تالیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی تالیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 82,
+    "symbol": "Pb",
+    "name": "سرب",
+    "englishName": "Lead",
+    "atomicMass": "207.2",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 14,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 600.61,
+    "boilingPoint": 2022,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی سرب",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی سرب به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 83,
+    "symbol": "Bi",
+    "name": "بیسموت",
+    "englishName": "Bismuth",
+    "atomicMass": "208.9804",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 15,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 544.55,
+    "boilingPoint": 1837,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی بیسموت",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی بیسموت به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 84,
+    "symbol": "Po",
+    "name": "پولونیم",
+    "englishName": "Polonium",
+    "atomicMass": "[209]",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 6,
+    "group": 16,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 527,
+    "boilingPoint": 1235,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی پولونیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی پولونیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 85,
+    "symbol": "At",
+    "name": "استاتین",
+    "englishName": "Astatine",
+    "atomicMass": "[210]",
+    "category": "هالوژن",
+    "state": "جامد",
+    "period": 6,
+    "group": 17,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 575,
+    "boilingPoint": null,
+    "uses": [
+      "تولید برخی ترکیبات و مواد شیمیایی مرتبط با استاتین",
+      "کاربردهای صنعتی و پژوهشی کنترل‌شده"
+    ],
+    "dangers": [
+      "استاتین یا برخی ترکیبات آن می‌توانند واکنش‌پذیر یا زیان‌آور باشند؛ از تماس مستقیم و استنشاق جلوگیری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 86,
+    "symbol": "Rn",
+    "name": "رادون",
+    "englishName": "Radon",
+    "atomicMass": "[222]",
+    "category": "گاز نجیب",
+    "state": "گاز",
+    "period": 6,
+    "group": 18,
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 202,
+    "boilingPoint": 211.45,
+    "uses": [
+      "کاربردهای نوری، علمی یا صنعتی رادون",
+      "محیط‌های محافظ در برخی فرایندهای تخصصی"
+    ],
+    "dangers": [
+      "گاز نجیب است، اما تجمع آن در فضای بسته می‌تواند اکسیژن را کاهش دهد."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 87,
+    "symbol": "Fr",
+    "name": "فرانسیم",
+    "englishName": "Francium",
+    "atomicMass": "[223]",
+    "category": "فلز قلیایی",
+    "state": "جامد",
+    "period": 7,
+    "group": 1,
+    "electronConfiguration": "[Rn] 7s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 300,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی فرانسیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی فرانسیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 88,
+    "symbol": "Ra",
+    "name": "رادیم",
+    "englishName": "Radium",
+    "atomicMass": "[226]",
+    "category": "فلز قلیایی خاکی",
+    "state": "جامد",
+    "period": 7,
+    "group": 2,
+    "electronConfiguration": "[Rn] 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 973,
+    "boilingPoint": 1413,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی رادیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی رادیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 89,
+    "symbol": "Ac",
+    "name": "اکتینیم",
+    "englishName": "Actinium",
+    "atomicMass": "[227]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 3,
+    "electronConfiguration": "[Rn] 6d¹ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1324,
+    "boilingPoint": 3471,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی اکتینیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی اکتینیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 90,
+    "symbol": "Th",
+    "name": "توریم",
+    "englishName": "Thorium",
+    "atomicMass": "232.0381",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 4,
+    "electronConfiguration": "[Rn] 6d² 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 2023,
+    "boilingPoint": 5061,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی توریم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی توریم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 91,
+    "symbol": "Pa",
+    "name": "پروتاکتینیم",
+    "englishName": "Protactinium",
+    "atomicMass": "231.0359",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 5,
+    "electronConfiguration": "[Rn] 5f² 6d¹ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1845,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی پروتاکتینیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی پروتاکتینیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 92,
+    "symbol": "U",
+    "name": "اورانیم",
+    "englishName": "Uranium",
+    "atomicMass": "238.0289",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 6,
+    "electronConfiguration": "[Rn] 5f³ 6d¹ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1408,
+    "boilingPoint": 4404,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی اورانیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی اورانیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 93,
+    "symbol": "Np",
+    "name": "نپتونیم",
+    "englishName": "Neptunium",
+    "atomicMass": "[237]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 7,
+    "electronConfiguration": "[Rn] 5f⁴ 6d¹ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 917,
+    "boilingPoint": 4175,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی نپتونیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی نپتونیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 94,
+    "symbol": "Pu",
+    "name": "پلوتونیم",
+    "englishName": "Plutonium",
+    "atomicMass": "[244]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 8,
+    "electronConfiguration": "[Rn] 5f⁶ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 913,
+    "boilingPoint": 3501,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی پلوتونیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی پلوتونیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 95,
+    "symbol": "Am",
+    "name": "آمریسیم",
+    "englishName": "Americium",
+    "atomicMass": "[243]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 9,
+    "electronConfiguration": "[Rn] 5f⁷ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1449,
+    "boilingPoint": 2284,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی آمریسیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی آمریسیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 96,
+    "symbol": "Cm",
+    "name": "کوریم",
+    "englishName": "Curium",
+    "atomicMass": "[247]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 10,
+    "electronConfiguration": "[Rn] 5f⁷ 6d¹ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1618,
+    "boilingPoint": 3400,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی کوریم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی کوریم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 97,
+    "symbol": "Bk",
+    "name": "برکلیم",
+    "englishName": "Berkelium",
+    "atomicMass": "[247]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 11,
+    "electronConfiguration": "[Rn] 5f⁹ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1323,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی برکلیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی برکلیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 98,
+    "symbol": "Cf",
+    "name": "کالیفرنیم",
+    "englishName": "Californium",
+    "atomicMass": "[251]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 12,
+    "electronConfiguration": "[Rn] 5f¹⁰ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1173,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی کالیفرنیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی کالیفرنیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 99,
+    "symbol": "Es",
+    "name": "اینشتینیم",
+    "englishName": "Einsteinium",
+    "atomicMass": "[252]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 13,
+    "electronConfiguration": "[Rn] 5f¹¹ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1133,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی اینشتینیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی اینشتینیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 100,
+    "symbol": "Fm",
+    "name": "فرمیم",
+    "englishName": "Fermium",
+    "atomicMass": "[257]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 14,
+    "electronConfiguration": "[Rn] 5f¹² 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1800,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی فرمیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی فرمیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 101,
+    "symbol": "Md",
+    "name": "مندلیفیم",
+    "englishName": "Mendelevium",
+    "atomicMass": "[258]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 15,
+    "electronConfiguration": "[Rn] 5f¹³ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1100,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی مندلیفیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی مندلیفیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 102,
+    "symbol": "No",
+    "name": "نوبلیم",
+    "englishName": "Nobelium",
+    "atomicMass": "[259]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 16,
+    "electronConfiguration": "[Rn] 5f¹⁴ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1100,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی نوبلیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی نوبلیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 103,
+    "symbol": "Lr",
+    "name": "لارنسیم",
+    "englishName": "Lawrencium",
+    "atomicMass": "[266]",
+    "category": "اکتینید",
+    "state": "جامد",
+    "period": 7,
+    "group": 17,
+    "electronConfiguration": "[Rn] 5f¹⁴ 7s² 7p¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": 1900,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی لارنسیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی لارنسیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 104,
+    "symbol": "Rf",
+    "name": "رادرفوردیم",
+    "englishName": "Rutherfordium",
+    "atomicMass": "[267]",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 4,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d² 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی رادرفوردیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی رادرفوردیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 105,
+    "symbol": "Db",
+    "name": "دوبنیم",
+    "englishName": "Dubnium",
+    "atomicMass": "[268]",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 5,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d³ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی دوبنیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی دوبنیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 106,
+    "symbol": "Sg",
+    "name": "سیبورگیم",
+    "englishName": "Seaborgium",
+    "atomicMass": "[269]",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 6,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁴ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی سیبورگیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی سیبورگیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 107,
+    "symbol": "Bh",
+    "name": "بوهریم",
+    "englishName": "Bohrium",
+    "atomicMass": "[270]",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 7,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁵ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی بوهریم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی بوهریم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 108,
+    "symbol": "Hs",
+    "name": "هاسیم",
+    "englishName": "Hassium",
+    "atomicMass": "[277]",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 8,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁶ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی هاسیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی هاسیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 109,
+    "symbol": "Mt",
+    "name": "مایتنریم",
+    "englishName": "Meitnerium",
+    "atomicMass": "[278]",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 9,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁷ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی مایتنریم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی مایتنریم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 110,
+    "symbol": "Ds",
+    "name": "دارمشتاتیم",
+    "englishName": "Darmstadtium",
+    "atomicMass": "[281]",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 10,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁹ 7s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی دارمشتاتیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی دارمشتاتیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 111,
+    "symbol": "Rg",
+    "name": "رونتگنیم",
+    "englishName": "Roentgenium",
+    "atomicMass": "[282]",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 11,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی رونتگنیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی رونتگنیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 112,
+    "symbol": "Cn",
+    "name": "کوپرنیسیم",
+    "englishName": "Copernicium",
+    "atomicMass": "[285]",
+    "category": "فلز واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 12,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی کوپرنیسیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی کوپرنیسیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 113,
+    "symbol": "Nh",
+    "name": "نیهونیم",
+    "englishName": "Nihonium",
+    "atomicMass": "[286]",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 13,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p¹",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی نیهونیم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی نیهونیم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 114,
+    "symbol": "Fl",
+    "name": "فلروویوم",
+    "englishName": "Flerovium",
+    "atomicMass": "[289]",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 14,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p²",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی فلروویوم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی فلروویوم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 115,
+    "symbol": "Mc",
+    "name": "مسکوویم",
+    "englishName": "Moscovium",
+    "atomicMass": "[290]",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 15,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p³",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی مسکوویم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی مسکوویم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 116,
+    "symbol": "Lv",
+    "name": "لیورموریم",
+    "englishName": "Livermorium",
+    "atomicMass": "[293]",
+    "category": "فلز پس‌واسطه",
+    "state": "جامد",
+    "period": 7,
+    "group": 16,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای صنعتی و مهندسی لیورموریم",
+      "تولید آلیاژها و مواد پیشرفته",
+      "پژوهش‌های علمی و فناوری"
+    ],
+    "dangers": [
+      "ویژگی‌های ایمنی لیورموریم به شکل شیمیایی و مقدار تماس بستگی دارد؛ از تماس مستقیم با مواد ناشناخته خودداری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 117,
+    "symbol": "Ts",
+    "name": "تنسین",
+    "englishName": "Tennessine",
+    "atomicMass": "[294]",
+    "category": "هالوژن",
+    "state": "جامد",
+    "period": 7,
+    "group": 17,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "تولید برخی ترکیبات و مواد شیمیایی مرتبط با تنسین",
+      "کاربردهای صنعتی و پژوهشی کنترل‌شده"
+    ],
+    "dangers": [
+      "تنسین یا برخی ترکیبات آن می‌توانند واکنش‌پذیر یا زیان‌آور باشند؛ از تماس مستقیم و استنشاق جلوگیری شود."
+    ],
+    "description": ""
+  },
+  {
+    "atomicNumber": 118,
+    "symbol": "Og",
+    "name": "اوگانسون",
+    "englishName": "Oganesson",
+    "atomicMass": "[294]",
+    "category": "گاز نجیب",
+    "state": "گاز",
+    "period": 7,
+    "group": 18,
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶",
+    "electronegativity": null,
+    "density": null,
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "uses": [
+      "کاربردهای نوری، علمی یا صنعتی اوگانسون",
+      "محیط‌های محافظ در برخی فرایندهای تخصصی"
+    ],
+    "dangers": [
+      "گاز نجیب است، اما تجمع آن در فضای بسته می‌تواند اکسیژن را کاهش دهد."
+    ],
+    "description": ""
+  }
+]

@@ -1,0 +1,869 @@
+[
+  {
+    "formula": "H2O",
+    "name": "آب",
+    "englishName": "Water",
+    "elements": [
+      {
+        "symbol": "H",
+        "count": 2
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از هیدروژن و اکسیژن که به صورت مولکول H₂O شناخته می‌شود."
+  },
+  {
+    "formula": "H2O2",
+    "name": "هیدروژن پراکسید",
+    "englishName": "Hydrogen Peroxide",
+    "elements": [
+      {
+        "symbol": "H",
+        "count": 2
+      },
+      {
+        "symbol": "O",
+        "count": 2
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی مولکولی از هیدروژن و اکسیژن با فرمول H₂O₂."
+  },
+  {
+    "formula": "HCl",
+    "name": "هیدروژن کلرید",
+    "englishName": "Hydrogen Chloride",
+    "elements": [
+      {
+        "symbol": "H",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 1
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از هیدروژن و کلر با نسبت یک به یک."
+  },
+  {
+    "formula": "H2S",
+    "name": "هیدروژن سولفید",
+    "englishName": "Hydrogen Sulfide",
+    "elements": [
+      {
+        "symbol": "H",
+        "count": 2
+      },
+      {
+        "symbol": "S",
+        "count": 1
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی مولکولی از هیدروژن و گوگرد."
+  },
+  {
+    "formula": "NH3",
+    "name": "آمونیاک",
+    "englishName": "Ammonia",
+    "elements": [
+      {
+        "symbol": "N",
+        "count": 1
+      },
+      {
+        "symbol": "H",
+        "count": 3
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیب مولکولی نیتروژن و هیدروژن با فرمول NH₃."
+  },
+  {
+    "formula": "CH4",
+    "name": "متان",
+    "englishName": "Methane",
+    "elements": [
+      {
+        "symbol": "C",
+        "count": 1
+      },
+      {
+        "symbol": "H",
+        "count": 4
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ساده‌ترین هیدروکربن و ترکیبی از کربن و هیدروژن."
+  },
+  {
+    "formula": "CO",
+    "name": "کربن مونوکسید",
+    "englishName": "Carbon Monoxide",
+    "elements": [
+      {
+        "symbol": "C",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از کربن و اکسیژن با نسبت یک به یک."
+  },
+  {
+    "formula": "CO2",
+    "name": "کربن دی‌اکسید",
+    "englishName": "Carbon Dioxide",
+    "elements": [
+      {
+        "symbol": "C",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 2
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی مولکولی از کربن و اکسیژن با فرمول CO₂."
+  },
+  {
+    "formula": "SO2",
+    "name": "گوگرد دی‌اکسید",
+    "englishName": "Sulfur Dioxide",
+    "elements": [
+      {
+        "symbol": "S",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 2
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از گوگرد و اکسیژن با فرمول SO₂."
+  },
+  {
+    "formula": "SO3",
+    "name": "گوگرد تری‌اکسید",
+    "englishName": "Sulfur Trioxide",
+    "elements": [
+      {
+        "symbol": "S",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 3
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از گوگرد و اکسیژن با فرمول SO₃."
+  },
+  {
+    "formula": "NO",
+    "name": "نیتروژن مونوکسید",
+    "englishName": "Nitrogen Monoxide",
+    "elements": [
+      {
+        "symbol": "N",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از نیتروژن و اکسیژن با نسبت یک به یک."
+  },
+  {
+    "formula": "NO2",
+    "name": "نیتروژن دی‌اکسید",
+    "englishName": "Nitrogen Dioxide",
+    "elements": [
+      {
+        "symbol": "N",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 2
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از نیتروژن و اکسیژن با فرمول NO₂."
+  },
+  {
+    "formula": "N2O5",
+    "name": "دی‌نیتروژن پنتااکسید",
+    "englishName": "Dinitrogen Pentoxide",
+    "elements": [
+      {
+        "symbol": "N",
+        "count": 2
+      },
+      {
+        "symbol": "O",
+        "count": 5
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از نیتروژن و اکسیژن با فرمول N₂O₅."
+  },
+  {
+    "formula": "NaCl",
+    "name": "سدیم کلرید",
+    "englishName": "Sodium Chloride",
+    "elements": [
+      {
+        "symbol": "Na",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی سدیم و کلر با نسبت یک به یک."
+  },
+  {
+    "formula": "KCl",
+    "name": "پتاسیم کلرید",
+    "englishName": "Potassium Chloride",
+    "elements": [
+      {
+        "symbol": "K",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی پتاسیم و کلر."
+  },
+  {
+    "formula": "CaCl2",
+    "name": "کلسیم کلرید",
+    "englishName": "Calcium Chloride",
+    "elements": [
+      {
+        "symbol": "Ca",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 2
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی کلسیم و کلر با نسبت ۱ به ۲."
+  },
+  {
+    "formula": "MgCl2",
+    "name": "منیزیم کلرید",
+    "englishName": "Magnesium Chloride",
+    "elements": [
+      {
+        "symbol": "Mg",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 2
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی منیزیم و کلر."
+  },
+  {
+    "formula": "AlCl3",
+    "name": "آلومینیوم کلرید",
+    "englishName": "Aluminum Chloride",
+    "elements": [
+      {
+        "symbol": "Al",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 3
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب آلومینیوم و کلر با فرمول AlCl₃."
+  },
+  {
+    "formula": "FeCl2",
+    "name": "آهن(II) کلرید",
+    "englishName": "Iron(II) Chloride",
+    "elements": [
+      {
+        "symbol": "Fe",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 2
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی آهن و کلر در حالت اکسایش +۲."
+  },
+  {
+    "formula": "FeCl3",
+    "name": "آهن(III) کلرید",
+    "englishName": "Iron(III) Chloride",
+    "elements": [
+      {
+        "symbol": "Fe",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 3
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی آهن و کلر در حالت اکسایش +۳."
+  },
+  {
+    "formula": "CuCl",
+    "name": "مس(I) کلرید",
+    "englishName": "Copper(I) Chloride",
+    "elements": [
+      {
+        "symbol": "Cu",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب مس و کلر در حالت اکسایش +۱."
+  },
+  {
+    "formula": "CuCl2",
+    "name": "مس(II) کلرید",
+    "englishName": "Copper(II) Chloride",
+    "elements": [
+      {
+        "symbol": "Cu",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 2
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب مس و کلر در حالت اکسایش +۲."
+  },
+  {
+    "formula": "Na2O",
+    "name": "سدیم اکسید",
+    "englishName": "Sodium Oxide",
+    "elements": [
+      {
+        "symbol": "Na",
+        "count": 2
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی سدیم و اکسیژن."
+  },
+  {
+    "formula": "K2O",
+    "name": "پتاسیم اکسید",
+    "englishName": "Potassium Oxide",
+    "elements": [
+      {
+        "symbol": "K",
+        "count": 2
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی پتاسیم و اکسیژن."
+  },
+  {
+    "formula": "CaO",
+    "name": "کلسیم اکسید",
+    "englishName": "Calcium Oxide",
+    "elements": [
+      {
+        "symbol": "Ca",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی کلسیم و اکسیژن."
+  },
+  {
+    "formula": "MgO",
+    "name": "منیزیم اکسید",
+    "englishName": "Magnesium Oxide",
+    "elements": [
+      {
+        "symbol": "Mg",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی منیزیم و اکسیژن."
+  },
+  {
+    "formula": "Al2O3",
+    "name": "آلومینیوم اکسید",
+    "englishName": "Aluminum Oxide",
+    "elements": [
+      {
+        "symbol": "Al",
+        "count": 2
+      },
+      {
+        "symbol": "O",
+        "count": 3
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب آلومینیوم و اکسیژن با فرمول Al₂O₃."
+  },
+  {
+    "formula": "FeO",
+    "name": "آهن(II) اکسید",
+    "englishName": "Iron(II) Oxide",
+    "elements": [
+      {
+        "symbol": "Fe",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "اکسید آهن در حالت اکسایش +۲."
+  },
+  {
+    "formula": "Fe2O3",
+    "name": "آهن(III) اکسید",
+    "englishName": "Iron(III) Oxide",
+    "elements": [
+      {
+        "symbol": "Fe",
+        "count": 2
+      },
+      {
+        "symbol": "O",
+        "count": 3
+      }
+    ],
+    "type": "یونی",
+    "description": "اکسید آهن در حالت اکسایش +۳."
+  },
+  {
+    "formula": "Fe3O4",
+    "name": "اکسید آهن(II,III)",
+    "englishName": "Iron(II,III) Oxide",
+    "elements": [
+      {
+        "symbol": "Fe",
+        "count": 3
+      },
+      {
+        "symbol": "O",
+        "count": 4
+      }
+    ],
+    "type": "یونی",
+    "description": "اکسید ترکیبی آهن با فرمول Fe₃O₄."
+  },
+  {
+    "formula": "Cu2O",
+    "name": "مس(I) اکسید",
+    "englishName": "Copper(I) Oxide",
+    "elements": [
+      {
+        "symbol": "Cu",
+        "count": 2
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "اکسید مس در حالت اکسایش +۱."
+  },
+  {
+    "formula": "CuO",
+    "name": "مس(II) اکسید",
+    "englishName": "Copper(II) Oxide",
+    "elements": [
+      {
+        "symbol": "Cu",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "اکسید مس در حالت اکسایش +۲."
+  },
+  {
+    "formula": "ZnO",
+    "name": "روی اکسید",
+    "englishName": "Zinc Oxide",
+    "elements": [
+      {
+        "symbol": "Zn",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب روی و اکسیژن با نسبت یک به یک."
+  },
+  {
+    "formula": "SiO2",
+    "name": "سیلیسیم دی‌اکسید",
+    "englishName": "Silicon Dioxide",
+    "elements": [
+      {
+        "symbol": "Si",
+        "count": 1
+      },
+      {
+        "symbol": "O",
+        "count": 2
+      }
+    ],
+    "type": "شبکه‌ای کووالانسی",
+    "description": "ترکیب سیلیسیم و اکسیژن با ساختار شبکه‌ای."
+  },
+  {
+    "formula": "P2O5",
+    "name": "دی‌فسفر پنتااکسید",
+    "englishName": "Diphosphorus Pentoxide",
+    "elements": [
+      {
+        "symbol": "P",
+        "count": 2
+      },
+      {
+        "symbol": "O",
+        "count": 5
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از فسفر و اکسیژن با فرمول تجربی P₂O₅."
+  },
+  {
+    "formula": "PCl3",
+    "name": "فسفر تری‌کلرید",
+    "englishName": "Phosphorus Trichloride",
+    "elements": [
+      {
+        "symbol": "P",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 3
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی مولکولی از فسفر و کلر."
+  },
+  {
+    "formula": "PCl5",
+    "name": "فسفر پنتاکلرید",
+    "englishName": "Phosphorus Pentachloride",
+    "elements": [
+      {
+        "symbol": "P",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 5
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از فسفر و کلر با فرمول PCl₅."
+  },
+  {
+    "formula": "SCl2",
+    "name": "گوگرد دی‌کلرید",
+    "englishName": "Sulfur Dichloride",
+    "elements": [
+      {
+        "symbol": "S",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 2
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی مولکولی از گوگرد و کلر."
+  },
+  {
+    "formula": "BCl3",
+    "name": "بور تری‌کلرید",
+    "englishName": "Boron Trichloride",
+    "elements": [
+      {
+        "symbol": "B",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 3
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از بور و کلر با فرمول BCl₃."
+  },
+  {
+    "formula": "BF3",
+    "name": "بور تری‌فلوئورید",
+    "englishName": "Boron Trifluoride",
+    "elements": [
+      {
+        "symbol": "B",
+        "count": 1
+      },
+      {
+        "symbol": "F",
+        "count": 3
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از بور و فلوئور با فرمول BF₃."
+  },
+  {
+    "formula": "CF4",
+    "name": "کربن تترافلوئورید",
+    "englishName": "Carbon Tetrafluoride",
+    "elements": [
+      {
+        "symbol": "C",
+        "count": 1
+      },
+      {
+        "symbol": "F",
+        "count": 4
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی مولکولی از کربن و فلوئور."
+  },
+  {
+    "formula": "SF6",
+    "name": "گوگرد هگزافلوئورید",
+    "englishName": "Sulfur Hexafluoride",
+    "elements": [
+      {
+        "symbol": "S",
+        "count": 1
+      },
+      {
+        "symbol": "F",
+        "count": 6
+      }
+    ],
+    "type": "کووالانسی",
+    "description": "ترکیبی از گوگرد و فلوئور با فرمول SF₆."
+  },
+  {
+    "formula": "MgF2",
+    "name": "منیزیم فلورید",
+    "englishName": "Magnesium Fluoride",
+    "elements": [
+      {
+        "symbol": "Mg",
+        "count": 1
+      },
+      {
+        "symbol": "F",
+        "count": 2
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی منیزیم و فلوئور."
+  },
+  {
+    "formula": "CaF2",
+    "name": "کلسیم فلورید",
+    "englishName": "Calcium Fluoride",
+    "elements": [
+      {
+        "symbol": "Ca",
+        "count": 1
+      },
+      {
+        "symbol": "F",
+        "count": 2
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی کلسیم و فلوئور."
+  },
+  {
+    "formula": "LiF",
+    "name": "لیتیوم فلورید",
+    "englishName": "Lithium Fluoride",
+    "elements": [
+      {
+        "symbol": "Li",
+        "count": 1
+      },
+      {
+        "symbol": "F",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی لیتیوم و فلوئور."
+  },
+  {
+    "formula": "NaBr",
+    "name": "سدیم برومید",
+    "englishName": "Sodium Bromide",
+    "elements": [
+      {
+        "symbol": "Na",
+        "count": 1
+      },
+      {
+        "symbol": "Br",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی سدیم و برم."
+  },
+  {
+    "formula": "NaI",
+    "name": "سدیم یدید",
+    "englishName": "Sodium Iodide",
+    "elements": [
+      {
+        "symbol": "Na",
+        "count": 1
+      },
+      {
+        "symbol": "I",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی سدیم و ید."
+  },
+  {
+    "formula": "KBr",
+    "name": "پتاسیم برومید",
+    "englishName": "Potassium Bromide",
+    "elements": [
+      {
+        "symbol": "K",
+        "count": 1
+      },
+      {
+        "symbol": "Br",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی پتاسیم و برم."
+  },
+  {
+    "formula": "AgCl",
+    "name": "نقره کلرید",
+    "englishName": "Silver Chloride",
+    "elements": [
+      {
+        "symbol": "Ag",
+        "count": 1
+      },
+      {
+        "symbol": "Cl",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی نقره و کلر با نسبت یک به یک."
+  },
+  {
+    "formula": "AgBr",
+    "name": "نقره برومید",
+    "englishName": "Silver Bromide",
+    "elements": [
+      {
+        "symbol": "Ag",
+        "count": 1
+      },
+      {
+        "symbol": "Br",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی نقره و برم."
+  },
+  {
+    "formula": "AgI",
+    "name": "نقره یدید",
+    "englishName": "Silver Iodide",
+    "elements": [
+      {
+        "symbol": "Ag",
+        "count": 1
+      },
+      {
+        "symbol": "I",
+        "count": 1
+      }
+    ],
+    "type": "یونی",
+    "description": "ترکیب یونی نقره و ید."
+  }
+]
